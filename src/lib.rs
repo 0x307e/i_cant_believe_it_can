@@ -1,7 +1,7 @@
 pub fn sort<T: Eq + Ord + Clone>(a: &mut Vec<T>) {
     let end = a.len();
     for i in 0..end {
-        for j in 0..end {
+        for j in 0..i {
             if a[i] < a[j] {
                 a.swap(i, j);
             }
