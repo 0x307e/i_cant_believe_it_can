@@ -1,0 +1,11 @@
+[package]
+name = "i_cant_believe_it_can"
+version = "0.1.0"
+edition = "2018"
+authors = ["makotia <3mdevmail@gmail.com>"]
+license = "MIT"
+description = "Implementation for https://arxiv.org/abs/2110.01111"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
