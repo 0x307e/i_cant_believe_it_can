@@ -1,4 +1,4 @@
-# i_cant_believe_it_can
+# i can't believe it can
 
 Rust implementation of [https://arxiv.org/abs/2110.01111](https://arxiv.org/abs/2110.01111)
 
